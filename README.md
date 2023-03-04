@@ -23,8 +23,8 @@
   "appium:uuid": "emulator-5554",  <br>
   "platformName": "Android",  <br>
   "appium:platfromVersion": "11",  <br>
-  "appium:appPackage": "com.continuum.emi.calculator",  <br>
-  "appium:appActivity": "com.finance.emicalci.activity.Splash_screnn",  <br>
+  "appium:appPackage": "com.google.android.calculator",  <br>
+  "appium:appActivity": "com.android.calculator2.Calculator",  <br>
   "appium:app": "D:\\APK\\calculator.apk"  <br>
   }  <br>
   
